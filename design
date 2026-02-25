@@ -1,0 +1,35 @@
+# pseudocodigo.txt
+INICIO
+
+Crear lista de nombres
+Crear lista de compras
+Crear lista de categorías
+Crear lista de bonos
+
+Mientras el usuario no elija salir:
+    Mostrar menú
+    
+    Si opción es 1:
+        Repetir 5 veces:
+            Pedir nombre
+            Pedir valor de compra
+            Guardar datos
+    
+    Si opción es 2:
+        Para cada compra:
+            Si compra < 100000:
+                Categoría = Bronce
+            Sino si compra < 500000:
+                Categoría = Plata
+            Sino:
+                Categoría = Oro
+                Calcular bono del 10%
+    
+    Si opción es 3:
+        Ordenar clientes alfabéticamente
+        Mostrar reporte
+    
+    Si opción es 4:
+        Terminar programa
+
+FIN
