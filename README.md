@@ -1,2 +1,12 @@
 # Proyecto_Corte_1_Grupo_-.
 Sistema de fidelización de clientes para tienda de ropa.
+# ModaPlus
+
+## Descripción
+ModaPlus es un sistema de fidelización desarrollado para una tienda de ropa. 
+El programa permite registrar clientes, clasificarlos según el valor de sus compras 
+(Bronce, Plata u Oro) y asignar beneficios especiales a los clientes Oro.
+
+## Integrantes
+- Samantha Vanegas
+- Avril Ariza
